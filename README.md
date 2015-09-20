@@ -6,7 +6,7 @@ a mini Lisp interpreter in Ruby
 
 `let` `lambda` `defun` `quote` `if`
 
-and some [library functions](https://github.com/airtial/hellolisp.rb/blob/master/Library.rb)
+and some [library functions](https://github.com/airtial/hellolisp.rb/blob/master/src/Library.rb)
 
 ### usage
 
