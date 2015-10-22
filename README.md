@@ -23,3 +23,11 @@ code = <<-'EOC'
 EOC
 actual = Hellolisp::eval(code)
 ```
+
+### references
+
+Thank you to [Mary Rose Cook](http://maryrosecook.com/) [(Little Lisp interpreter)](https://www.recurse.com/blog/21-little-lisp-interpreter)
+
+### more
+
+[hellolisp.scala](https://github.com/airtial/hellolisp.scala) (implementation in Scala)
